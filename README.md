@@ -1,4 +1,5 @@
 #Triangle pattern
+
 public class Trianglepattern {
 
 	public static void main(String[] args) {
